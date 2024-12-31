@@ -1,0 +1,1076 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    
+    {
+      
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.357816, -6.264493]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "7 Eccles Street",
+        "text": "In 1769, Isaac Ambrose Eccles leased a parcel of land on the north side of Eccles Street to Daniel Goodwin, carpenter. This became the site of numbers 6–8 Eccles Street. From the mid 19th century the wealthier residents of Dublin began to move further from the city center, and the houses in the area often had multiple occupancy.",
+        "image": "images/7EcclesStreet_18.jpg" 
+      }
+    },
+    {
+      
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.357816, -6.264493]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "7 Eccles Street",
+        "text": "Eccles Street in 1904 was regarded as a sedate and respectable neighborhood, solidly middle class and not at all shabby as what is left of it today is. It lies in the north part of inner Dublin, near the North Circular Road. Joyce became aware of the row of townhouses on its eastern end when he visited his friend J. F. Byrne in Dublin in 1909. Byrne lived at 7 Eccles Street. In 1904, the house was unoccupied, allowing Joyce's fictional protagonist to move in.",
+        "image": "images/7EcclesStreet_18.jpg" 
+      }
+    },
+    {
+      
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.357816, -6.264493]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "7 Eccles Street",
+        "text": "The house at 7 Eccles Street, alas for Joyce pilgrims around the world, was demolished in 1967. But John Ryan, the Dublin artist and man of letters who organized the first Bloomsday in 1954, rescued the front door and its surrounding masonry and installed it in The Bailey pub which he had purchased in 1957 and made a hangout for writers. In 1995, the doorway was moved to the James Joyce Centre, a museum in an elegant Georgian house at 35 North Great George's Street. Very recently the door was reunited with its knocker, which a New Yorker named Fredric Seiden, visiting Dublin and making a pilgrimage to 7 Eccles, removed when he realized that the house was soon to be torn down. The James Joyce Centre flew Seiden from New York to Dublin in June 2013 to return the loud proud knocker to its place of honor.",
+        "image": "images/7EcclesStreet_OSM.jpg" 
+      }
+    },
+    {
+      
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.34844,-6.25726]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Abby Theater",
+        "text": "In 1899 Lady Gregory, Edward Martyn and W. B. Yeats founded the Irish Literary Theater, which was one of three bases for the founding of the Abby Theater. The others being the W. G. Fay's Irish National Dramatic Company founded by William and Frank Fay, and the support of Annie Horniman. The founding was also connected to the wave of change in the European theatrics landscape, challenging the ‘stale metropolitanism’.",
+        "image": "images/AbbyTheate_18.jpg" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.34844,-6.25726]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Abby Theater",
+        "text": "Also known as the National Theater of Ireland this institution was founded in 1904 by W.B. Yeats and Lady Gregory “to bring upon the stage the deeper emotions of Ireland”. In the first chapter, Telemachus Milligan refers to the so-called Irish Literary Revival. ",
+        "image": "images/AbbyTheate_19.png" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.34844,-6.25726]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Abby Theater",
+        "text": "Today the mission of Ireland's National Theater is to engage with all of Irish society by theatre in all of its forms. ",
+        "image": "images/AbbyTheate_OSM.jpg" 
+      }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3497659,-6.2890782]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Arbour Hill",
+        "text": "1848 a prison opened to house military prisoners.",
+        "image": "images/ArbourHill_18.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3497659,-6.2890782]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Arbour Hill",
+        "text": "Two pillars of British imperial power straddled the Arbour Hill road only one block further west. Just south of the road sat the huge Royal Barracks, housing the largest assemblage of British troops in Dublin. In 1798 Wolfe Tone and two other leaders of the United Irishmen rebellion, Henry and John Sheares, were imprisoned in these barracks.",
+        "image": "images/ArbourHill_19.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3497659,-6.2890782]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Arbour Hill",
+        "text": "After the establishment of the Irish Free State, the government resolved to make Arbour Hill a place of heroic commemoration rather than shameful obscurity, and these efforts have continued during the era of the Republic. Today, the mass grave is backed by a wall inscribed with the names of the 14 men, and their deaths are commemorated every year in May. The wall also reproduces the text of the 1916 Proclamation in both English and Irish.",
+        "image": "images/ArbourHill_OSM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3466701,-6.2620336]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Ballast Office",
+        "text": "In 1865, the Dublin Ballast Board decided to erect a time ball on the roof of their office.  As the corporation for preserving and improving the Port of Dublin, the Board no doubt saw the erection of the ball as part of their remit to represent Dublin as a modern world port.",
+        "image": "images/BallastOffice_18.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3466701,-6.2620336]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Ballast Office",
+        "text": "The copper ball, four feet in diameter, had a wooden pole through its center, allowing it to be raised and lowered. The time ball dropped each day at 1:00 PM Greenwich Mean Time, the international standard. Ireland, however, was on Dunsink time, 25 minutes and 21 seconds behind Greenwich time. This time was determined by the Dunsink Observatory north of Phoenix Park and communicated directly to the Ballast Office by a five-mile telegraph wire.",
+        "image": "images/BallastOffice_19.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3466701,-6.2620336]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Ballast Office",
+        "text": "Today the docks do not reach so far upriver. The Port and the City have become substantially separate entities, and the Ballast Office was demolished in the 1970s to make room for a new office block. However, the builders erected a 'pastiche' replica of the old building's facade to conceal the new one.",
+        "image": "images/BallastOffice_OSM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3493636,-6.2702039]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Barney Kiernan's",
+        "text": "This pub was associated with the 1798 Rebellion.",
+        "image": "images/BarneyKiernans_18.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3493636,-6.2702039]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Barney Kiernan's",
+        "text": "Most of the action of Cyclops takes place in 'Barney Kiernan's,' a public house. This grim little establishment adorned its walls with memorabilia celebrating insurrections, trials, and executions, a fact reflected in the episode's frequent references to law courts, hangings, police blotters, and heroic violence. The guests, including Bloom, discuss Irish nationalist heroes, the banning of Irish games by the British and the Irish revolt. Given the fervid spirit of Irish nationalism that prevails in the bar, it seems hugely ironic that it is located at '8, 9 and 10 little Britain street.'",
+        "image": "images/BarneyKiernans_19.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3493636,-6.2702039]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Barney Kiernan's",
+        "text": "As of mid-2019 the building that housed the pub was for sale.",
+        "image": "images/BarneyKiernans_OSM.jpg"
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.1905257,-6.1047664]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Bray Head",
+        "text": "This elegant mile-long promenade was built during the Victorian era, at a time when moneyed middle-class Dubliners were moving to Bray to escape the press of city life while remaining within commuting distance. The extension of the Dublin and Kingstown Railway to the town in 1854 transformed Bray into a comfortable suburban resort destination. The Joyce family lived on Martello Terrace from 1887 to 1892, when they were still comfortably well off.",
+        "image": "images/BrayHead_18.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.1905257,-6.1047664]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Bray Head",
+        "text": "In Penelope Molly recalls a nearly disastrous outing off the Bray coast: Id never again in this life get into a boat with him after him at Bray telling the boatman he knew how to row if anyone asked could he ride the steeplechase for the gold cup hed say yes then it came on to get rough the old thing crookeding about and the weight all down my side telling me pull the right reins now pull the left and the tide all swamping in floods in through the bottom and his oar slipping out of the stirrup its a mercy we werent all drowned he can swim of course me no theres no danger whatsoever keep yourself calm in his flannel trousers Id like to have tattered them down off him before all the people and give him what that one calls flagellate till he was black and blue do him all the good in the world.",
+        "image": "images/BrayHead_19.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.1905257,-6.1047664]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Bray Head",
+        "text": "Rowing clubs keep seagoing rowboats on the Bray beach to this day, ready to launch into the choppy water.",
+        "image": "images/BrayHead_OSM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3400909,-6.2698493]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Bride Street",
+        "text": "The street was named after the  St Bride's Church which was  demolished in the late 1800s to make way for the Iveagh Trust housing scheme.[3] Adelaide Hospital was originally located at 42 Bride Street until 1846.",
+        "image": "images/BrideStreet_18.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3400909,-6.2698493]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Bride Street",
+        "text": "In 1904 it was a blighted area, full of tenements. The novel visits this part of town several times, first in connection with two women whom Stephen sees walking out onto Sandymount Strand, and later in connection with Bob Doran's annual bender.",
+        "image": "images/BrideStreet_18.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3400909,-6.2698493]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Bride Street",
+        "text": "Today it is a street in the medieval area of Dublin.",
+        "image": "images/BrideStreet_OSM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3507197,-6.2700836]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Capel Street Library",
+        "text": "The Public Libraries Act of 1855 allowed for the establishment of free public lending libraries in Dublin, but the Corporation did not form a committee to do so until 1883. Two run-down Georgian tenement houses in Capel Street and Thomas Street were obtained for the purpose, to serve the north and south sides of the city respectively, and they opened within hours of each other on 1 October 1884.",
+        "image": "images/CapelStreet_18.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3507197,-6.2700836]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Capel Street Library",
+        "text": "The public library on Capel Street, one of the first two in the city's history, was approaching its twentieth anniversary at the time represented in the novel. Bloom has secured the backing of a nearby businessman to obtain borrowing privileges, which were not extended to just anyone. The library is mentioned also in Wandering Rocks (Miss Dunne has borrowed a Wilkie Collins novel), Ithaca (Bloom has borrowed an Arthur Conan Doyle book for himself), and Eumaeus. The street itself surfaces in characters' thoughts in Cyclops and Nausicaa.",
+        "image": "images/CapelStreet_19.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3507197,-6.2700836]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Capel Street Library ",
+        "text": "Capel Street Library finally closed its doors in 1986.",
+        "image": "images/CapelStreet_OSM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3446,-6.2728]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Church of the Immaculate Conception",
+        "text": "The Roman Catholic Church was founded 1834. 'Adam and Eve's' gained its colloquial name because, when Catholic religious observances were prohibited by penal laws in the 18th and early 19th centuries, the Franciscans secretly held Mass for worshipers who entered through the Adam and Eve Tavern next door to the church.",
+        "image": "images/ChurchImmaculate_18.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3446,-6.2728]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Church of the Immaculate Conception",
+        "text": "Joyce mentions the church's services in Cyclops, when the narrator despises Bob Doran for 'talking against the Catholic religion, and he serving mass in Adam and Eve’s when he was young with his eyes shut, who wrote the new testament, and the old testament.' Ithaca alludes specifically to the surreptitious masses of earlier times when Stephen and Bloom find a spiritual bond in belonging to despised faith communities: 'their dispersal, persecution, survival and revival: the isolation of their synagogical and ecclesiastical rites in ghetto (S. Mary’s Abbey) and masshouse (Adam and Eve’s tavern): the proscription of their national costumes in penal laws and jewish dress acts: the restoration in Chanah David of Zion and the possibility of Irish political autonomy or devolution.'",
+        "image": "images/ChurchImmaculate_18.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3446,-6.2728]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Church of the Immaculate Conception",
+        "text": "The church was completed 1938 an its organ rebuilt in 1996.",
+        "image": "images/ChurchImmaculate_OSM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3440513,-6.2697893]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "City Hall ",
+        "text": "In the 1850s the Dublin Corporation bought the Royal Exchange, previously known as a meeting place for Dublin’s businessmen, and converted the building to the city hall.The Dublin Corporation was established in the 1100s by Henry II of England. In the 19th century it was restructured and reduced to a single chamber, presided over by the Lord Mayor of Dublin.After the abolition of the Irish Parliament by the Act of Union in 1800, the Dublin Corporation was the largest elected body in Ireland and perhaps the only one that could embody hopes of national independence.",
+        "image": "images/CityHall_18.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3440513,-6.2697893]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "City Hall ",
+        "text": "The two kinds of representatives appear in Wandering Rocks: 'On the steps of the City hall Councillor Nannetti, descending, hailed Alderman Cowley and Councillor Abraham Lyon ascending.' Gifford and Slote note that Abraham Lyon was an actual councillor, but that there is no record of an alderman named Cowley. Nannetti plays a fairly significant role in the novel. He was a master printer who ascended to the mayoralty from the Council, reflecting the modern dissolution of the old hierarchy of tradesmen and nobles.A significant number of Corporation members served simultaneously as Members of Parliament in Westminster. That was the case with Harrington and Nannetti and also with John Hooper, an alderman who figures in Hades and Ithaca when Bloom thinks of 'the wedding present alderman Hooper gave us,' a stuffed owl. All three of these men supported the nationalist agenda of Parnell's Irish Parliamentary Party. It may seem odd that politicians who had attained the stature and influence of MPs would bother themselves with the humdrum work of a mere city council, but the body carried symbolic as well as practical importance.",
+        "image": "images/CityHall_19.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.3440513,-6.2697893]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "City Hall ",
+        "text": "1916 the City Hall was used by the Irish Citizen Army as a garrison. In the early 21st century the Dublin Corporation was renamed Dublin City Council. Today most of the city staff works in the Ciciv Offices, while the vaults of the City Hall provide an exhibition on the history of Dublin. ",
+        "image": "images/CityHall_OSM.jpg"
+      }
+    },
+    
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3428861,-6.2674284]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Dublin Castle",
+        "text": "Founded in 1204 by John of England the Dublin Castle was the seat of the British government's administration in Ireland. King John was the first Lord of Ireland. The Castle served continuously as the seat of his and later English and British governments until independence in 1922",
+        "image": "images/DublinCastle_18.jpg"
+      }
+    }, 
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3428861,-6.2674284]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Dublin Castle",
+        "text": "The Castle inevitably was the nerve-center for the robust domestic espionage apparatus by which the government sniffed out subversion and sedition. In Lestrygonians Bloom imagines the workings of this pervasive network of paid spies and informers: 'Never know who you're talking to. Corny Kelleher he has Harvey Duff in his eye. Like that Peter or Denis or James Carey that blew the gaff on the invincibles. Member of the corporation too. Egging raw youths on to get in the know all the time drawing secret service pay from the castle. Drop him like a hot potato. Why those plainclothes men are always courting slaveys. Easily twig a man used to uniform. Squarepushing up against a backdoor. Maul her a bit. Then the next thing on the menu. And who is the gentleman does be visiting there? Was the young master saying anything?' In Cyclops Martin Cunningham suggests that some state surveillance has been conducted on Bloom: 'He’s a perverted jew, says Martin, from a place in Hungary and it was he drew up all the plans according to the Hungarian system. We know that in the castle.'",
+        "image": "images/DublinCastle_19.jpg"
+      }
+    }, 
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3428861,-6.2674284]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Dublin Castle",
+        "text": "On 16 January 1922, the Dublin Castle was handed over to the government of the newly independent Irish state. Today it hosts important national events, such as state dinners and commemorations. It is also open to the public to visit or book tours. ",
+        "image": "images/DublinCastle_OSM.jpg"
+      }
+    }, 
+   
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.344444,-6.26]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "College Green",
+        "text": "1701 a statue of William III of England was constructed at the center of the college. This statue was attacked and defaces many times trough the 19th and 20th century. 1890 the College Green held the National Library of Ireland.",
+        "image": "images/CollegeGreen_18.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.344444,-6.26]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "College Green",
+        "text": "In Joyce's time one of four parliamentary constituencies for the city of Dublin, represented by one member of the House of Commons, was named for the square.",
+        "image": "images/CollegeGreen_19.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.344444,-6.26]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "College Green",
+        "text": "In 1966, a statue of the poet and nationalist Thomas Davis was constructed in the centre of College Green, to mark the fiftieth anniversary of the Easter Rising. Today College Green is used as an assembly point for major political rallies.",
+        "image": "images/CollegeGreen_OSM.jpg"
+      }
+    },
+   
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3416064,-6.2512332]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Denzille Street",
+        "text": "Mary Thornton, the actual Joyce family midwife whom Joyce imported into his novel, lived at 19A Denzille Street. this was also the address of James Carey, the Fenian leader who turned queen's evidence during the investigation of the murders and fled Ireland under state protection in 1883, only to be assassinated by an Irish nationalist on a ship off the South African coast. There is a perfectly ordinary explanation for Thornton and Carey living at the same address: he likely was her landlord. ",
+        "image": "images/DenzilleStreet_18.jpg"
+      }
+    }, 
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3416064,-6.2512332]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Denzille Street",
+        "text": "Whatever the source of his knowledge, Bloom has been turning the lesson of Carey's life over in his mind for a long time, admiring his nationalism, abhorring his criminal violence, envying his courage, deploring his betrayal. Eumaeus records this ever-shifting, parallactic ambivalence: 'turning queen's evidence—or king's now—like Denis or Peter Carey, an idea he utterly repudiated. Quite apart from that he disliked those careers of wrongdoing and crime on principle. Yet, though such criminal propensities had never been an inmate of his bosom in any shape or form, he certainly did feel and no denying it (while inwardly remaining what he was), a certain kind of admiration for a man who had actually brandished a knife, cold steel, with the courage of his political convictions.'",
+        "image": "images/DenzilleStreet_18.jpg"
+      }
+    }, 
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3416064,-6.2512332]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Denzille Street",
+        "text": "Denzille Street no longer exists; it became Fenian Street shortly after independence and the civil war of 1922-23.",
+        "image": "images/DenzilleStreet_OSM.jpg"
+      }
+    }, 
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3485956,-6.2607209]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Freeman's Journal",
+        "text": "The Freeman's Journal was founded in 1763 by Charles Lucas as a voice for the ecumenical Protestant nationalism that produced leaders like Henry Grattan and Henry Flood and, later, Wolfe Tone and Robert Emmet. The paper regressed to more pro-British views from 1784 to 1802 under the editorship of Francis Higgins, the 'Sham Squire,' but it regained its moral footing in the 19th century, especially under the ownership of Sir John Gray from the 1840s to the early 70s, when it advocated for land reform, disestablishment of the Church of Ireland, and Catholic civil rights. Gray's son, Edmund Dwyer Gray, took over management of the paper in 1875 and involved it in the nationalist campaign for Home Rule, which made it hated and feared in England.Ambivalent attitudes toward Charles Stewart Parnell that originated with John Gray kept the paper loyal to the great Irish parliamentary leader in the immediate aftermath of the O'Shea divorce scandal that tore apart his party, but finally caused it to renounce him in September 1891. In March 1892 the Freeman merged with a paper called the National Press, resulting in the full name used twice in Ulysses, the 'Freeman's Journal and National Press'",
+        "image": "images/FreemannsJournal_18.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3485956,-6.2607209]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Freeman's Journal",
+        "text": "The Freeman's Journal, often called simply the 'Freeman' in Ulysses, was one of Dublin's daily newspapers. This nationalist publication (a designation more deserved at some times than at others) was Ireland's first truly national paper during the 19th century, and in 1904 its circulation was so large that it could claim, in weekly ads, to be 'the leading Irish newspaper.' Leopold Bloom works for the paper lining up ads—in Lestrygonians Nosey Flynn tells Davy Byrne that 'He does canvassing for the Freeman'—and from Lotus Eaters to Sirens Bloom carries around a copy of the June 16 issue. Having thought in Calypso about his paper's logo of a homerule sun rising up in the northwest, Bloom walks around with a copy of the day's Freeman throughout Lotus Eaters. He carries it in a sidepocket of his jacket, rolls it up lengthwise into a 'baton' and taps his leg with it, sticks it in his armpit, unfolds it to look at ads, and uses it to shield Martha Clifford's letter from view.",
+        "image": "images/FreemannsJournal_18.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3485956,-6.2607209]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Freeman's Journal",
+        "text": "The collapse of the IPP in 1918, and the electoral success of Sinn Féin, saw a more radical nationalism appear that increasingly was out of step with the moderation of the Journal. The Irish Independent, the successor to the Daily Irish Independent, was more aggressively marketed. Just prior to the outbreak of the Irish Civil War in March 1922, the Freeman's Journal printing machinery was destroyed by Anti-Treaty IRA men under Rory O'Connor for its support of the Anglo-Irish Treaty. It did not resume publication until after the outbreak of civil war, when the Irish Free State re-asserted its authority over the country. The Freeman's Journal ceased publication in 1924, when it was merged with the Irish Independent. Until the 1990s, the Irish Independent included the words 'Incorporating the Freeman's Journal' in its mast-head over its editorials",
+        "image": "images/FreemannsJournal_OSM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.354174, -6.260039]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "James Joyce Centre",
+        "text": "In the early 1900s this fine Georgian townhouse at 35 North Great George’s Street gave home to a dance academy run by Prof Denis J Maginni, a character who turns up a few times in Ulysses.",
+        "image": "images/JamesJoyceCenter.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.354174, -6.260039]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "James Joyce Centre",
+        "text": "The House was previously owned by the Earl of Kenmare, and a Denis Maginni, who was featured in Ulysses",
+        "image": "images/JamesJoyceCenter.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.354174, -6.260039]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "James Joyce Centre",
+        "text": "The James Joyce Centre is a museum and cultural centre in Dublin, Ireland, dedicated to promoting an understanding of the life and works of James Joyce.It opened to the public in June 1996. The centre does not host a significant permanent collection beyond the furnishings, but temporary exhibitions interpret various aspects of Joyce's life and work, and the centre organises lectures and literary walking tours. It has also organised the annual Bloomsday Festival in Dublin since 1994 and promotes other Joycean events, such as community Bloomsday events.",
+        "image": "images/JamesJoyceCenter.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.2959736,-6.13701]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Kingstown Harbour",
+        "text": "In the second decade of the 19th century work began on creating a harbor at the coastal town of Dún Laoghaire by erecting two immense walls called the East and West Piers. The town was later renamed Kingstown to honor an 1821 visit by King George IV in his yacht. ",
+        "image": "images/KingstownHarbour_19.jpg"
+      }
+    }, 
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.2959736,-6.13701]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Kingstown Harbour",
+        "text": "'Stephen stood up and went over to the parapet. Leaning on it he looked down on the water and on the mailboat clearing the harbourmouth of Kingstown.' \n In Telemachus a young man swimming in the Fortyfoot tells Mulligan that he has seen a friend of theirs hanging out with a girl 'on the pier.' In Nestor, Armstrong refers to 'Kingstown pier,' and when Stephen asks him what he knows about Pyrrhus, the boy can only think of a silly pun: 'Pyrrhus, sir? Pyrrhus, a pier.' The heavy use of the East Pier by people enjoying themselves (walkers, musicians, lovers, yachters, children at play) poses quite a contrast to the dismal story of Pyrrhus. Armstrong indeed does not 'know anything about Pyrrhus,' and has other things on his mind.",
+        "image": "images/KingstownHarbour_19.jpg"
+      }
+    }, 
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.2959736,-6.13701]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Kingstown Harbour",
+        "text": "After independence its Irish name was restored.",
+        "image": "images/KingstownHarbour_OSM.jpg"
+      }
+    }, 
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.35068,-6.27253]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Linenhill Barracks",
+        "text": "The area known as Linenhall was in the 18th century by the Linen Board as market halls and inns for linen traders. Following the opening of the Belfast Linen Hall the Linenhall fell into decline and the Linen Board was disbanded  1828. In the 1870s the Hall was used as British Army barracks.",
+        "image": "images/LinenhillBarracks_18.jpg"
+      }
+    }, 
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.35068,-6.27253]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Linenhill Barracks",
+        "text": "As the capital of a subjugated nation with a long history of rebellion, Dublin in 1904 was quite literally ringed with military barracks",
+        "image": "images/LinenhillBarracks_19.jpg"
+      }
+    }, 
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.35068,-6.27253]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Linenhill Barracks",
+        "text": "On 26 April 1916, Linenhall Barracks was seized by the Irish Volunteers. The Barracks was largely occupied by unarmed clerks. The Barracks was set on fire by 1st Dublin Battalion Irish Volunteers to prevent the British Army using the site. Remnants of the original complex can be seen in the Linenhall campus of the Technological University Dublin off Yarnhall Street.",
+        "image": "images/LinenhillBarracks_OSM.jpg"
+      }
+    }, 
+
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.32789,-6.26379]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Mary Immaculate, Refuge of Sinners Church ",
+        "text": "Also known as 'Rathmine Church' it was built as a Roman Catholic Church in 1854.",
+        "image": "images/ChurchRathmine_18.jpg"
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.32789,-6.26379]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Mary Immaculate, Refuge of Sinners Church ",
+        "text": "As for the Rathmines church, the question of 'political autonomy' (republican independence) or 'devolution' (greater self-rule within the British empire) dominated Irish political discourse in the early 20th century. For some time, members of the Dublin IRA, assisted by a church official who belonged to 'A' Company, had slept in the church whenever police came looking for them at their house.",
+        "image": "images/ChurchRathmine_18.jpg"
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [53.32789,-6.26379]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Mary Immaculate, Refuge of Sinners Church ",
+        "text": "A catastrophic fire destroyed the church in 1920 and the entire heavy dome smashed down through its supports, but insurance money enabled quick rebuilding. The beautiful new dome, completed in 1923, is taller and more elaborate than its predecessor, but it too was designed to weather to a blue-green hue, and it continues to provide a striking visual landmark.",
+        "image": "images/ChurchRathmine_OSM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[53.2859,-6.1155]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Martello Tower Sandycove",
+        "text": "The Napoleonic Wars between Britain and France, which had been brewing ever since the French Revolution, began in earnest in 1803. Fearing that French forces would invade to assist the cause of Irish revolution, as they had in the 1790s, the British constructed a series of small defensive fortifications along the coasts of England and Ireland, beginning in 1803 and ending with Pitt’s death in 1806. The tower at Sandycove, by some accounts, was the first built in Ireland, to protect the approaches to Dublin.",
+        "image": "images/Martello_18.jpg" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[53.2859,-6.1155]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Martello Tower Sandycove",
+        "text": "The novel's first action, 'Buck Mulligan came from the stairhead,' situates the reader on the roof of a small military tower in Sandycove, seven miles from Dublin on the southeastern shores of Dublin Bay.",
+        "image": "images/Martello_18.jpg" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[53.2859,-6.1155]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Martello Tower Sandycove",
+        "text": "Today it's a tourist attraction.",
+        "image": "images/Martello_OSM.jpg" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[53.341111, -6.254444]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "National Library of Ireland",
+        "text": "The National Library of Ireland was established by the Dublin Science and Art Museum Act 1877. In the late 19th century the National Library was associated with “efforts to preserve records and keep the Irish language and culture alive, which no doubt accounts for Haines' pilgrimage there. Although Haines has asked to hear “your idea of Hamlet,” he is not present in the library when Stephen propounds it.",
+        "image": "images/NationalLibrary_18.jpg" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[53.341111, -6.254444]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "National Library of Ireland",
+        "text": "Scylla and Charybdis takes place in the library, as Stephen presents his views on Shakespeare's life and work. At the same time, but off-screen, Bloom is paying a visit to the National Museum to inspect a plaster reproduction of a Greek statue. He enters the library about halfway through the chapter to look at a back issue of a newspaper.",
+        "image": "images/NationalLibrary_19.jpg" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[53.341111, -6.254444]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "National Library of Ireland",
+        "text": "After the foundation of the Irish Free State in 1924/5 the Library was transferred to the Department of Education. On 3 May 2005 it became an autonomous cultural institution under the National Cultural Institutions Act 1997 ",
+        "image": "images/NationalLibrary_OSM.jpg" 
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[53.349806,-6.26025]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Nelson's Pillar",
+        "text": "'Nelson's pillar' was an immense monument to Admiral Horatio Nelson in the middle of Sackville (or O'Connell) Street constructed in 1808.",
+        "image": "images/NelsonPillar_18.jpg" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[53.349806,-6.26025]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Nelson's Pillar",
+        "text": "Nelson's pillar was the originating point for most of Dublin's trams. All the traffic from people catching trams to various parts of the city, or coming to enter the momument, made the pillar's base a natural spot for sellers to hawk flowers and food. As Paddy Dignam's funeral procession passes by the pillar in Hades, a girl is selling plums to tourists and locals coming to take in the view: '—Eight plums a penny! Eight for a penny!' Stephen takes these calls as the inspiration for his narrative vignette in the next chapter. His two elderly vestals, Florence MacCabe and Anne Kearns, 'want to see the views of Dublin from the top of Nelson's pillar.' They buy bread and pressed meat, plus 'four and twenty ripe plums from a girl at the foot of Nelson's pillar,' pay threepence each for admission to the staircase, and 'begin to waddle slowly up the winding staircase,' exclaiming wearily at the distance and 'peeping at the airslits.'",
+        "image": "images/NelsonPillar_18.jpg" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[53.349806,-6.26025]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Nelson's Pillar",
+        "text": "Nelson's statue and the top half of the pillar were crudely demolished by IRA explosives in March 1966, in what is generally supposed to have marked a 50-year commemoration of the Easter Rising which began less than a block away, at the General Post Office. Today, the modernist Spire of Dublin rises from the spot on which the pillar once stood.",
+        "image": "images/NelsonPillar_OSM.jpg" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[53.35,-6.26]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "O’Connell Street",
+        "text": "The monument to O'Connell, designed by the accomplished Irish sculptor John Henry Foley, had much to do with this change. Unveiled in 1882, it features a 13-foot bronze statue of the great leader atop a granite plinth that has four winged Victories at its lower corners, and many other figures above, including a personified Ireland trampling on her broken chains and pointing upward to the man who broke them. The erection of the monument moved many Dubliners to give a new name to the street, and members of the Dublin Corporation tried to make the change official in the 1880s. Other residents objected, however, and the Corporation did not obtain legal authority to make the change until 1890. Faced with continuing opposition, it decided to give the new name time to become popular with the citizenry.",
+        "image": "images/OConnellStreet_18.jpg" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[53.35,-6.26]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "O’Connell Street",
+        "text": "In 1904 the avenue was officially called Sackville Street, a name assigned in the late 1700s when it began to be widened and built up. Soon afterward it was extended to the river as part of a grand thoroughfare leading to the centers of government power, with the section north of the pillar called Upper Sackville Street and the southern section called Lower. But Joyce's novel only uses the name of the Duke of Dorset once, when Bloom thinks in Ithaca of buying lily-of-the-valley bulbs from a seed and bulb business at '23 Sackville street, upper.' Although the name O'Connell Street did not become official until 1924, after Irish independence, the language of Ulysses suggests that this process was far advanced by 1904. Passages in Lotus Eaters, Aeolus, Wandering Rocks, and Ithaca use the new name, not Sackville. After passing the Sir Philip Crampton memorial and the William Smith O'Brien statue on the south side of the river, the funeral procession in Hades crosses the O'Connell Bridge and begins its journey up O'Connell Street by passing 'under the hugecloaked Liberator's form.' O'Connell was known as the Liberator or Emancipator for his herculean efforts to enfranchise Ireland's Catholics and return the Irish Parliament to Dublin. As the cortège passes up the boulevard, the narrative calls attention to some of its prominent features, including statues erected in memory of Sir John Gray, Lord Nelson, and Father Thomas Mathew.",
+        "image": "images/OConnellStreet_19.jpg" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[53.35,-6.26]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "O’Connell Street",
+        "text": "During the Eastern Rising in 1913, a riot began after the police arrested the worker rights activist James Larkin. The Irish Republican seized the General Post Office and proclaimed the Irish Republic, which was followed by British bombardment. Today most of the buildings were built in the 1920s and 30s. The street features prominent places like the Gresham Hotel, the Royal Dublin Hotel and the department store Clerys. In 2003 the Spire of Dublin was erected",
+        "image": "images/OConnellStreet_OSM.jpg" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[53.32702,-6.26906]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Portobello Barracks",
+        "text": "The Portobello Barracks were built in 1810 and originally designed as cavalry barracks.",
+        "image": "images/PortobelloBarracks_18.jpg" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[53.32702,-6.26906]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Portobello Barracks",
+        "text": "In any case, the question of confining soldiers to their barracks, or not, would have been much on Dubliners' minds at this time, when troops were free to roam the streets at night, seeking sex and getting involved in brawls. British soldiers were a fixture on Dublin’s streets, and the city was encircled by barracks housing large numbers of troops. Joyce makes repeated mention of the sprawling 'Portobello barracks' in the south central suburb of Rathmines, the home of the two soldiers who assault Stephen in Circe. During the 1916 Eastern Rising Irish troops from the barracks were involved. 1922 the Irish troops took control of the barracks, and it became their headquarters. In 1952 the Portobello Barracks were renamed after Cathal Brugha, the leader of the 1916 Rising.",
+        "image": "images/PortobelloBarracks_18.jpg" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[53.32702,-6.26906]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Portobello Barracks",
+        "text": "Today the barracks house units of the Irish Defence Force.",
+        "image": "images/PortobelloBarracks_OSM.jpg" 
+      }
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3571,-6.2852]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Richmond Lunatic Asylum",
+        "text": "The psychiatric facility was referd mockingly as 'Dottyville'. The popular caricaturist Phil May (1864-1903) drew a number of cartoons for Punch that refer to a lunatic asylum he called Dottyville’ (dotty as a colloquial adjective for someone feeble in mind or silly was in popular use in English by the 1880s).' Those cartoons in the 1890s gave rise to a cultural meme.",
+        "image": "images/RichmondLunaticAsylum_18.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3571,-6.2852]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Richmond Lunatic Asylum",
+        "text": "The Asylum was the most important psychiatric facility in 1904 and comes up several times in the novel.  Joyce's fictional interest in insanity parallels Ireland's therapeutic interest in it. The country has a long history of building hospitals for the care of the mentally ill. It also has a long history of excessive consumption of alcohol, which has been responsible for many referrals to mental hospitals.",
+        "image": "images/RichmondLunaticAsylum_19.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3571,-6.2852]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Richmond Lunatic Asylum",
+        "text": "Later in the 20th century the Richmond Lunatic Asylum became known more respectfully as the Grangegorman Mental Hospital, one part of a complex of buildings called St. Brendan's Psychiatric Hospital. The hospital complex has been progressively decommissioned in the last two decades, however, and much of it either lies in ruins or has been demolished.",
+        "image": "images/RichmondLunaticAsylum_OSM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3509021,-6.2420118]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "St Laurence O`Toole's Church",
+        "text": "Lorcán Ua Tuathail, later 'saint Laurence O'Toole,' was a 12th century monk who became the first Irishman elected Archbishop of Dublin, a town ruled by Danes and Norwegians. He was canonized by Pope Honorius III in 1225, and later became Dublin's patron saint because, as archbishop at the time of the Norman invasions, he protected the city's inhabitants, using the respect and trust he inspired in all who met him to obtain clemency from the bloodthirsty knights besieging his city. The Roman Catholic Church was established in 1853.",
+        "image": "images/ChurchLaurence_18.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3509021,-6.2420118]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "St Laurence O`Toole's Church",
+        "text": "In Stephens Story he think of 'saint Laurence O'Toole's' a Gothic Revival limestone structure several blocks north of what in Joyce's time were working docklands on the Liffey, and about one and a half kilometers east-northeast of the pillar. Its majestic four-stage tower and spire, at the entrance to the nave, command views in the area and were said to be the last landmark seen by emigrants leaving Ireland from the North Wall.",
+        "image": "images/ChurchLaurence_19.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3509021,-6.2420118]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "St Laurence O`Toole's Church",
+        "text": "Today the church can still be visited.",
+        "image": "images/ChurchLaurence_OSM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 53.34186,-6.25053]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "Sweny's Pharmacy",
+        "text": "Sweny’s pharmacy was originally built in 1847 as a GP’s consulting room. A few years later, it became a pharmacy.",
+        "image": "images/SweenysPharmacy_18.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 53.34186,-6.25053]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "Sweny's Pharmacy",
+        "text": "In 1904, James Joyce consulted with Sweny for his novel Ulysses. Here the fictional character Mr Bloom picks up his lucky charm – a lemon soap.",
+        "image": "images/SweenysPharmacy_18.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 53.34186,-6.25053]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "Sweny's Pharmacy",
+        "text": "Sweny’s pharmacy only ceased trading in 2009. Since then, it has been maintained by around two dozen volunteers – each working different shifts throughout the week.Joyce’s works are treasured here, with daily readings by both the volunteers and visitors.",
+        "image": "images/SweenysPharmacy_OSM.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3486316,-6.2587775]
+      },
+      "properties": {
+        "layerType": "Dublin 1883",
+        "title": "The Ship Pub",
+        "text": "The date of the opening of The ship is unknown.",
+        "image": "images/TheShipPub_18.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3486316,-6.2587775]
+      },
+      "properties": {
+        "layerType": "Dublin 1904",
+        "title": "The Ship Pub",
+        "text": "Ulysses contains several references to 'the Ship,' a public house on Lower Abbey Street, which runs east from O’Connell Street (Sackville Street in 1904), only two blocks north of the Liffey in the heart of downtown. In Dublin in Bloomtime: The City James Joyce Knew (Viking, 1969), Cyril Pearl notes that this large pub, 'destroyed during the Troubles, had a long musical tradition' of hosting live performances, and was also 'very popular with writers and journalists'Mulligan evidently spends a lot of time there.",
+        "image": "images/TheShipPub_18.jpg"
+      }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.3486316,-6.2587775]
+      },
+      "properties": {
+        "layerType": "OpenStreetMap",
+        "title": "The Ship Pub",
+        "text": "The tavern was rebuilt in 1917, after being destroyed in the Easter uprising of the year before. The bay windows continue to evoke the captain's cabin at the stern of a ship. ",
+        "image": "images/TheShipPub_OSM.jpg"
+      }
+    }
+    
+    
+  ]
+}

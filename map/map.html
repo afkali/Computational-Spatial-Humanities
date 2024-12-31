@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  <script src="Leaflet.ImageOverlay.Rotated.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <link rel="stylesheet" href="stylestuff.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+  <title>Deep Mapping Dublin</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      background-color: #614427;
+      color: #d4c6b9;
+      padding: 20px;
+      font-size: 28px;
+      font-weight: bold;
+      box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+      
+    }
+    .text-top {
+      padding: 20px;
+      background-color: #806448;
+      color: #d4c6b9;
+      font-size: 18px;
+      text-align: center;
+      line-height: 1.5;
+    }
+    .container {
+      display: flex;
+      height: 80vh;
+    }
+    .left {
+      width: 25%;
+      background-color: #d8d5d1;
+      padding: 20px;
+      box-shadow: 2px 0px 6px rgba(0, 0, 0, 0.1);
+      overflow-y: auto;
+    }
+
+    .left p {
+      font-size: 16px;
+      line-height: 1.6;
+      color: #4b3621; 
+    }
+    .right {
+      width: 80%;
+      height: 100%;
+    }
+    #map {
+      height: 100%;
+      width: 100%;
+    }
+    #info-panel img {
+      max-width: 100%;  
+      height: auto;    
+      display: block;
+      margin: 10px auto;  
+}
+  </style>
+</head>
+<body>
+
+<header>
+Deep Mapping Dublin - from the past to the present with Ulysses
+</header>
+
+<div class="text-top">
+  <p>Step into the heart of Dublin through the lens of James Joyce's iconic novel, Ulysses. This interactive project invites you to explore the cultural, historical, and emotional layers of the city across three time periods.</p>
+  
+</div>
+
+<div class="container">
+  <div class="left" id="info-panel">
+    <!--<p>pop up stuff</p> -->
+    <h3>Welcome to Deep Mapping Dublin</h3>
+    <p>Please select a location on the map to see details.</p>
+    <img src="images/joyce_quote.jpeg" class="default_img" alt="Quote">
+  </div>
+  <div class="right">
+    <div id="map"></div>
+  </div>
+</div>
+
+<script>
+$(document).ready(function () {
+  var map = L.map('map', {maxBounds: bounds, maxZoom: 17, minZoom:12}).setView([53.3498, -6.2603], 12); 
+
+  var openStreetMapLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: 'Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors',
+    maxZoom: 19
+  });
+  openStreetMapLayer.addTo(map);
+
+  //icons
+  const Icon_1883 = L.icon({
+    iconUrl: 'location-dot-solid_red.svg',
+    iconSize: [30, 30], 
+});
+
+const Icon_1904 = L.icon({
+    iconUrl: 'location-dot-solid_black.svg',
+    iconSize: [30, 30], 
+});
+
+const Icon_modern = L.icon({
+    iconUrl: 'location-dot-solid_blue.svg',
+    iconSize: [30, 30], 
+});
+
+  var selectedFeature = null;
+  var activeLayer = 'Dublin 1883';
+
+  var dublin1883 = L.geoJSON(null, {
+    pointToLayer: function(feature, latlng) {
+      var coordinates = feature.geometry.coordinates;
+      var marker = L.marker([coordinates[0], coordinates[1]], {icon: Icon_1883});
+
+      marker.on('click', function() {
+        selectedFeature = feature;
+        updateInfoPanel();
+      });
+
+      return marker;
+    }
+  });
+
+  var overlay2Layer = L.geoJSON(null, {
+    pointToLayer: function(feature, latlng) {
+      var coordinates = feature.geometry.coordinates;
+      var marker = L.marker([coordinates[0], coordinates[1]], {icon: Icon_1904});
+
+      marker.on('click', function() {
+        selectedFeature = feature;
+        updateInfoPanel();
+      });
+
+      return marker;
+    }
+  });
+
+  var markerLayerBase = L.layerGroup();
+
+  $.getJSON('places.geojson', function(data) {
+    data.features.forEach(function(feature) {
+      var layerType = feature.properties.layerType;
+
+      if (layerType === 'Dublin 1883') {
+        dublin1883.addData(feature);
+      } else if (layerType === 'Dublin 1904') {
+        overlay2Layer.addData(feature);
+      }
+
+      if (layerType === 'OpenStreetMap') {
+        var coordinates = feature.geometry.coordinates;
+        var marker = L.marker([coordinates[0], coordinates[1]], {icon: Icon_modern});
+
+        marker.on('click', function() {
+          selectedFeature = feature;
+          updateInfoPanel();
+        });
+
+        markerLayerBase.addLayer(marker);
+      }
+    });
+
+    map.addLayer(dublin1883);
+  });
+
+  //  points for image overlays
+  var point1 = L.latLng(53.36690, -6.30683),
+      point2 = L.latLng(53.35956, -6.22052),
+      point3 = L.latLng(53.32750, -6.31616),
+      point4 = L.latLng(53.36945, -6.31796),
+      point5 = L.latLng(53.3694, -6.21552),
+      point6 = L.latLng(53.33332, -6.31977);
+
+  // Create image overlays
+  var overlay = L.imageOverlay.rotated("dublin1883.jpg", point1, point2, point3, {opacity: 1, interactive: true});
+  var overlay2 = L.imageOverlay.rotated("Dublin1900.jpg", point4, point5, point6, {opacity: 1, interactive: true});
+
+  overlay.addTo(map);
+  var overlayMaps = {
+    "Dublin 1883": overlay,
+    "Dublin 1904": overlay2
+  };
+  var baseMaps = {
+    "OpenStreetMap": openStreetMapLayer,
+  };
+
+  L.control.layers(baseMaps, overlayMaps).addTo(map);
+
+  map.on('overlayadd', function (eventLayer) {
+    activeLayer = eventLayer.name;
+
+    if (eventLayer.name === 'Dublin 1883') {
+      map.removeLayer(markerLayerBase);
+      map.addLayer(dublin1883);
+    } else if (eventLayer.name === 'Dublin 1904') {
+      map.removeLayer(markerLayerBase);
+      map.addLayer(overlay2Layer);
+    }
+
+    updateInfoPanel();
+  });
+
+  map.on('overlayremove', function (eventLayer) {
+    if (activeLayer === eventLayer.name) {
+      activeLayer = null;
+    }
+
+    if (eventLayer.name === 'Dublin 1883') {
+      map.removeLayer(dublin1883);
+      map.addLayer(markerLayerBase);
+    } else if (eventLayer.name === 'Dublin 1904') {
+      map.removeLayer(overlay2Layer);
+      map.addLayer(markerLayerBase);
+    }
+
+    updateInfoPanel();
+  });
+
+  // update info panel
+  function updateInfoPanel() {
+    if (selectedFeature) {
+      var featureLayerType = selectedFeature.properties.layerType;
+
+      if (featureLayerType === activeLayer || featureLayerType === 'OpenStreetMap') {
+        var content = '<h3>' + selectedFeature.properties.title + '</h3>' +
+                      '<p>' + selectedFeature.properties.text + '</p>';
+
+        if (selectedFeature.properties.image) {
+          content += '<img src="' + selectedFeature.properties.image + '" class="info-image">';
+        }
+
+        $('#info-panel').html(content);
+      } else {
+        //$('#info-panel').html('<p>Select a marker to see details.</p>');
+        var defaultContent  = '<h3>Welcome to Deep Mapping Dublin</h3>'+
+                            '<p>Please select a location on the map to see details.</p>'+
+                          '<img src="images/joyce_quote.jpeg" class="default_img" alt="Quote">';
+      $('#info-panel').html(defaultContent);
+        selectedFeature = null;
+      }
+    } else {
+      //$('#info-panel').html('<p>Select a marker to see details.</p>');
+      var defaultContent  = '<h3>Welcome to Deep Mapping Dublin</h3>'+
+                            '<p>Please select a location on the map to see details.</p>'+
+                          '<img src="images/joyce_quote.jpeg" class="default_img" alt="Quote">';
+      $('#info-panel').html(defaultContent);
+    }
+  }
+});
+var corner1 = L.latLng(53.447862, -6.569103),
+corner2 = L.latLng(53.226708, -5.966233),
+bounds = L.latLngBounds(corner1, corner2);
+
+
+</script>
+
+</body>
+</html>
